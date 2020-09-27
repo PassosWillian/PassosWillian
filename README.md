@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🔭 At the moment, I'm looking for an opportunity for beginner.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Git. Future React, NodeJS, React Native and MongoDB
 - 💭 Curiosities: I love being with my family, I like books, playing sports and eating barbecue.
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/willian-passos)
+- 📫 How to reach me: <www.linkedin.com/in/willian-passos>
 
